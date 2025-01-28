@@ -1,15 +1,15 @@
 {
   "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "text": "At TechGide, we are passionate about helping businesses and individuals establish a strong online presence. Our mission is to make web development easy, fast, and accessible for everyone—whether you're a startup, entrepreneur, or established business.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "What We Do",
+      "content": "We specialize in creating custom, responsive, and high-performance websites that align with your business goals. From stunning landing pages to full-scale e-commerce solutions, we ensure your brand stands out in the digital world.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Our Vision",
+      "content": "We believe that every business deserves a website that reflects its identity, engages its audience, and drives success. With TechGide, you don’t just get a website—you get a powerful digital presence.",
       "icon": "notes.svg"
     }
   ]
